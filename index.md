@@ -34,7 +34,7 @@ handled manually, normally within a few days.
 | Data | Example | Why |
 |---|---|---|
 | Discord user ID | `123456789012345678` | Identifies your results |
-| Discord display name | `Bang4Buck` | Shown on the scoreboards |
+| Discord display name | `Scrang4Chuck` | Shown on the scoreboards |
 | Server (guild) ID | `570695643111227426` | Keeps servers separate |
 | Game | `guessthegame` | Which puzzle |
 | Puzzle number | `1432` | Prevents the same puzzle counting twice |
