@@ -35,7 +35,7 @@ handled manually, normally within a few days.
 |---|---|---|
 | Discord user ID | `123456789012345678` | Identifies your results |
 | Discord display name | `Scrang4Chuck` | Shown on the scoreboards |
-| Server (guild) ID | `570695643111227426` | Keeps servers separate |
+| Server (guild) ID | `570695643123427426` | Keeps servers separate |
 | Game | `guessthegame` | Which puzzle |
 | Puzzle number | `1432` | Prevents the same puzzle counting twice |
 | Score | `3` | Guesses used, or stars earned |
